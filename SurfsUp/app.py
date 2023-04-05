@@ -169,3 +169,7 @@ else:
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+    
+  #Note: This part of the challenge is something that was heavily researched as I still fail to understad the concepts.
+#Sources of research include GitHub, StackOverflow and review of lesson material. There still appears to be 3 errors. 
